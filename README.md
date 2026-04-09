@@ -154,8 +154,8 @@ Compact depthwise separable CNN designed specifically for EEG-BCIs. Uses Conv1D 
 bci-project/
 │
 ├── bci-project.ipynb          # Main notebook (full pipeline)
-│
-├── Sections:
+|   │
+|   ├── Sections:
 │   ├── Section 1  — Imports & Dataset Loading
 │   ├── Section 2  — EDA: Label distribution, band power, channel activity
 │   ├── Section 3  — Channel positions & 10-20 system projection
