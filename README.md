@@ -142,7 +142,7 @@ Compact depthwise separable CNN designed specifically for EEG-BCIs. Uses Conv1D 
 | CNN-only | 95.05% | 0.9952 | 0.9977 | 0.9620 | 0.8911 |
 | LSTM-only | 95.73% | 0.9963 | 0.9982 | 0.9672 | 0.9061 |
 | **StressNet (CNN+LSTM Fusion)** | **97.52%** | **0.9998** | **0.9999** | **0.9811** | **0.9448** |
-| EEGNet | **98.27%** | 0.9986 | 0.9993 | 0.9872 | 0.9607 |
+| **EEGNet** | **98.27%** |**0.9986** | **0.9993** | **0.9872** | **0.9607** |
 
 > EEGNet achieves the highest test accuracy (98.27%) with only ~2K parameters — a remarkable efficiency result. StressNet achieves the best ROC-AUC and PR-AUC (both ≈ 0.9999), indicating near-perfect discrimination across thresholds.
 
