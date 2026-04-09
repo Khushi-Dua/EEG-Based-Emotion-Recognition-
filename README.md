@@ -1,4 +1,4 @@
-# EEG-Based Emotion Recognition using StressNet
+# EEG-Based Emotion Recognition 
 ### SEED Dataset · Signal Preprocessing + Deep Learning
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/khushidua77/bci-project)
